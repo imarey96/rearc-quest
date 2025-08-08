@@ -1,0 +1,27 @@
+# Node / npm
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables
+.env
+
+# Docker
+*.tar
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+crash.log
+tfplan*
+
+# macOS
+.DS_Store
+
+# Editors/IDEs
+.idea/
+.vscode/
