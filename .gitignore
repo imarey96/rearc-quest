@@ -25,3 +25,4 @@ tfplan*
 # Editors/IDEs
 .idea/
 .vscode/
+.terraform.lock.hcl
