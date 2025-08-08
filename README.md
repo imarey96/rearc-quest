@@ -82,5 +82,6 @@ terraform destroy
 * Add a real CICD pipeline, either with cloud build or github actions. 
 * Switch to a Google-managed certificate with a real domain.
 * Add Cloud Armor rules and Cloud Logging/Monitoring dashboards.
+* Split the IAC portion into its own repo.
 
 
